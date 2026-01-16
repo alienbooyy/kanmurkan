@@ -2,6 +2,8 @@
 
 A complete offline restaurant automation system with touch-friendly interfaces for managing tables, orders, inventory, and analytics.
 
+> **Security Note:** Version 1.0.1 includes security updates for all dependencies. See [SECURITY.md](SECURITY.md) for details.
+
 ## Features
 
 ### Main Home Page
