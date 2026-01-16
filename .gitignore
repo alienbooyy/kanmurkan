@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+*.pyc
+__pycache__/
+*.db
+.env
+.vscode/
+.idea/
+*.log
+*.exe
+*.spec
