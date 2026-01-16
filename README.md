@@ -1,1 +1,1 @@
-# Initial setup for a restaurant automation system.
+This project is a backend API built with FastAPI.
